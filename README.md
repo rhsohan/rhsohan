@@ -15,7 +15,7 @@
 - 💻 I also build and design web experiences (check out my web dev portfolio!).
 - 💡 I love creating clean, scalable architectures and excellent user interfaces.
 - 🚀 Always exploring new technologies and pushing my boundaries as a developer.
-- 📫 How to reach me: **[Add your email/LinkedIn here]**
+- 📫 How to reach me: **sohan.cse10.bu@gmail.com**
 
 ---
 
