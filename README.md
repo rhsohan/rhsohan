@@ -70,20 +70,13 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/streak?username=rhsohan&theme=github_dark" alt="GitHub Streak" /> <br> <br>
-  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rhsohan&layout=compact&theme=github_dark" alt="Top Languages" />
+    <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rhsohan&layout=compact&theme=github_dark" alt="Top Languages" /> <br> <br>
+  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/streak?username=rhsohan&theme=github_dark" alt="GitHub Streak" /> 
 </p>
 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rhsohan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="rhsohan trophies" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
