@@ -70,7 +70,7 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/streak?username=rhsohan&theme=github_dark" alt="GitHub Streak" />
+  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/streak?username=rhsohan&theme=github_dark" alt="GitHub Streak" /> <br> <br>
   <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rhsohan&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
