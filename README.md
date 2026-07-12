@@ -1,4 +1,5 @@
 # Hi there, I'm Md. Readul Haque Sohan! 👋
+*(You might also know me as **rhsohan** across the web)*
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rhsohan&label=Profile%20views&color=0e75b6&style=flat" alt="rhsohan" />
@@ -10,12 +11,15 @@
 
 ## 👨‍💻 About Me
 
+- 🌍 I'm a Software Developer based in [Bangladesh].
 - 🎓 I'm currently building modern and responsive software applications.
 - 📱 I develop premium Mobile Applications using **Flutter & Dart**.
 - 💻 I also build and design web experiences (check out my web dev portfolio!).
 - 💡 I love creating clean, scalable architectures and excellent user interfaces.
 - 🚀 Always exploring new technologies and pushing my boundaries as a developer.
 - 📫 How to reach me: **sohan.cse10.bu@gmail.com**
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/readul-sohan-1b5a05313/) | [Facebook](https://www.facebook.com/readul.sohan.5) 
+
 
 ---
 
