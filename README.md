@@ -67,16 +67,11 @@
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/mhShohan">
-    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhShohan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhShohan&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
-  </a>
-  <br>
-  <br>
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=mhShohan&theme=react&hide_border=false&border_radius=8&background=0D1117&stroke=35A29F&fire=35A29F&sideLabels=35A29F&currStreakNum=35A29F&ring=35A29F&currStreakLabel=35A29F&sideNums=35A29F" alt="GitHub Streak" />
+  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/streak?username=rhsohan&theme=github_dark" alt="GitHub Streak" />
+  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rhsohan&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 
