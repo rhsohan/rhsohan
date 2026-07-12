@@ -48,10 +48,10 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhsohan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhsohan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
+</p>
 
 ---
 
