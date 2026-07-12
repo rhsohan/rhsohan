@@ -48,9 +48,8 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhsohan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhsohan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+[![GitHub Stats]()](https://www.readmecodegen.com/custom-github-card-generator)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TevesManuel&layout=compact&langs_count=10&theme=algolia&hide=css,html)
 
 ---
 
