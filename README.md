@@ -67,12 +67,18 @@
 
 ---
 
-## 📈 GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=rhsohan&theme=github_dark" />
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rhsohan&layout=compact&theme=github_dark" />
+<p align="left">
+<a href="https://github.com/mhShohan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhShohan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhShohan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
+<p align="center">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhShohan&theme=react&hide_border=false&border_radius=8&background=0D1117&stroke=35A29F&fire=35A29F&sideLabels=35A29F&currStreakNum=35A29F&ring=35A29F&currStreakLabel=35A29F&sideNums=35A29F" />
+</p>
+
 
 ---
 
