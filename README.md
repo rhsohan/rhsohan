@@ -97,6 +97,7 @@
 ## 🧩 "Make it work, make it right, make it fast." – Kent Beck
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=0e75b6&center=true&vCenter=true&width=500&lines=Software+Developer;Flutter+%7C+Dart+%7C+Laravel;Passionate+about+Building+Impactful+Apps" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=0e75b6&center=true&vCenter=true&width=700&lines=Software+Developer;Flutter+%7C+Dart+%7C+Laravel;Passionate+about+Building+Impactful+Apps" alt="Typing Animation" />
 </p>
+
 
